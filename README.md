@@ -27,8 +27,22 @@ Restart Cursor or start a new agent chat so skills are picked up.
 | `one-piece-tcg-video-packager` | 3 title/thumbnail/hook packages + winner |
 | `one-piece-tcg-script-writer` | Full voiceover from winning package |
 
+## Example outputs (`scripts/`)
+
+Finished and in-progress deliverables from the pipeline (research + packaging + voiceover where applicable):
+
+| File | Topic |
+|------|--------|
+| `2026-05-top7-sealed-green-week-script.md` | Film-ready voiceover — TOP 7 sealed green week |
+| `2026-05-top7-sealed-green-week-pipeline.md` | Full pipeline (research + packaging + script) |
+| `2026-05-extra-boosters-pipeline.md` | EB-01–EB-05 investor guide (full pipeline) |
+| `2026-05-gift-collection-2023.md` | Gift Collection 2023 script |
+
+Use these as format and tone references when extending the skills.
+
 ## Releases
 
+- **v1.0.1** — Add example scripts from the YouTube pipeline.
 - **v1.0.0** — Initial publish: researcher, packager, and script-writer skills with supporting reference files.
 
 ## License
