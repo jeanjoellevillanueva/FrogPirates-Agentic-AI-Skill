@@ -111,6 +111,24 @@ Add to Final Topic Score when the topic fits JJ's list-first scripts:
 - Bear market reasons + survival rules
 - Last call on 1–2 sets (5 thesis points)
 
+## Audience fit bonus (0–5)
+
+Add when scoring for JJ's **beginner + intermediate** skew. Full profile: [audience.md](../one-piece-tcg-channel/audience.md).
+
+| Score | Criteria |
+|-------|----------|
+| 0–1 | Whale/meta/price-list only; beginner can't act |
+| 2–3 | Useful but saturated or needs heavy simplification |
+| 4–5 | Clear rules/framework; both segments learn; low saturation |
+
+```
+Adjusted Topic Score = Final Topic Score + audience_fit
+```
+
+Tie-break: **audience_fit** → **saturation_fresh** → **channel_fit**.
+
+---
+
 ## Anti-patterns
 
 - Copying identical title + thumbnail from top video in cluster

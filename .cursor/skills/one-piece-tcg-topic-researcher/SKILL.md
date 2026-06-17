@@ -23,6 +23,8 @@ The goal is **not** to copy. Detect momentum early, find underserved angles, pub
 
 **Channel format:** JJ videos are **always ranked lists** (#1–#N cards/products or Point 1–N thesis). Only recommend topics that can support **at least 5 rankable items with prices or clear thesis pillars**.
 
+**Audience:** Beginner + intermediate western collectors/investors. Read [audience.md](../one-piece-tcg-channel/audience.md) before scoring topics — prefer tips, rules, and frameworks over whale price lists and saturated launch-week rankings.
+
 **Pipeline after research:**
 
 1. [one-piece-tcg-video-packager](../one-piece-tcg-video-packager/SKILL.md) — 3 title/thumbnail/hook packages + winner
@@ -190,6 +192,7 @@ Track clusters under:
 
 ## Reference
 
+- Audience skew (beginner + intermediate): [audience.md](../one-piece-tcg-channel/audience.md)
 - Scoring tables, saturation heuristics, search tips: [reference.md](reference.md)
 - Output template: [deliverable.md](deliverable.md)
 - Golden examples (titles, structure, voice): [examples.md](examples.md)

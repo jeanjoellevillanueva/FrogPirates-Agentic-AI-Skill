@@ -13,6 +13,8 @@ description: >-
 
 Turn a **topic** into **3 complete, coherent packages** where title, thumbnail, and opening hook promise the **same thing**. Pick one winner for the script writer.
 
+**Audience:** Beginner + intermediate. Read [audience.md](../one-piece-tcg-channel/audience.md) â€” titles should promise a **learnable rule or framework**, not intimidate with whale-only price flex.
+
 **Pipeline position:**
 
 ```
@@ -116,6 +118,7 @@ Tell script writer: `Write full script using Winning Package [A|B|C], Format [Aâ
 
 ## Reference
 
+- Audience skew (beginner + intermediate): [audience.md](../one-piece-tcg-channel/audience.md)
 - Package fields: [package-template.md](package-template.md)
 - Coherence rules: [coherence-checklist.md](coherence-checklist.md)
 - Emotion angles: [angles.md](angles.md)

@@ -13,6 +13,8 @@ description: >-
 
 Produce **film-ready** scripts that match JJ's channel: **always a list** (ranked #1–#N or numbered thesis points), pirate hook, real prices, English-investor rules, and a strong outro.
 
+**Audience:** Beginner + intermediate. Read [audience.md](../one-piece-tcg-channel/audience.md) — plain language, one clear promise, budget-aware examples ($50–$200 decisions), mistake-prevention over whale hype.
+
 **Pipeline:** [topic-researcher](../one-piece-tcg-topic-researcher/SKILL.md) → [video-packager](../one-piece-tcg-video-packager/SKILL.md) → **this skill**.
 
 If a **winning package handoff** exists, use it verbatim for title, thumbnail notes, and opening hook. Do not invent a competing title.
@@ -122,6 +124,7 @@ Deliver in this order:
 
 ## Reference
 
+- Audience skew (beginner + intermediate): [audience.md](../one-piece-tcg-channel/audience.md)
 - Format playbooks: [formats.md](formats.md)
 - JJ voice & investor rules: [voice.md](voice.md)
 - Title/thumbnail/hook packages: [video-packager](../one-piece-tcg-video-packager/SKILL.md)
