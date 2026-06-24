@@ -27,7 +27,8 @@ If a **winning package handoff** exists, use it verbatim for title, thumbnail no
 4. **Comparisons** — When relevant: vs manga / vs another card / vs MSRP / vs historical price.
 5. **English investor bias** — State EN vs JP when it changes the thesis. Note: Bandai **English** reprint rules differ from Japanese (see [voice.md](voice.md)).
 6. **No fluff** — No generic TCG history lectures unless it supports the list (e.g. Pokémon deck comparison in starter-deck format).
-7. **Closing** — Actionable recap OR verdict, then subscribe + `next voyage` / `See you on our next voyage`.
+7. **Human voice** — No AI fragment chains (`Prices wobble. Everyone panics.`). Full sentences, first person, real examples. See [voice.md — avoid AI cadence](voice.md#human-voice--avoid-ai-cadence).
+8. **Closing** — Actionable recap OR verdict, then subscribe + `next voyage` / `See you on our next voyage`.
 
 ## Workflow
 
@@ -92,6 +93,8 @@ Voice rules: [voice.md](voice.md).
 - [ ] List count matches title (e.g. "10 cards" → 10 entries)
 - [ ] At least one **contrarian** or **math/rarity** insight
 - [ ] EN product rules correct (reprints, exclusives)
+- [ ] No AI cadence — no fragment triplets, dramatic stacks, or slogan closers ([voice.md](voice.md#human-voice--avoid-ai-cadence))
+- [ ] Read-aloud test — every paragraph sounds like JJ talking, not a trailer
 - [ ] No args/returns docstrings (N/A — not code)
 
 ## Output template

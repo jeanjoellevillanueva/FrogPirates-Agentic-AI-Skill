@@ -1,220 +1,302 @@
 # Strategic Rebalancing — Script (June 2026)
 
-**Companion video:** [2026-06-ten-year-plan-survive-bubble-script.md](2026-06-ten-year-plan-survive-bubble-script.md) — watch Ten Year Plan first for the 5-rule filter; this video is **when to rotate capital** between modern and vintage.
+**Companion video:** [2026-06-ten-year-plan-survive-bubble-script.md](2026-06-ten-year-plan-survive-bubble-script.md) — Ten Year Plan = filter; this video = when to move money.
 
-## Title package
+---
 
-**Title:** Strategic Rebalancing: When to Sell Modern Sets for Vintage One Piece Grails  
-**Headline:** REBALANCE  
-**Sub-headline:** Create wealth · Retain wealth  
-**Badge:** PORTFOLIO LOGIC  
+# VIDEO PACKAGER
 
-### Title B
+## Package A — A or B question (WINNER)
 
-**Title:** When to Sell Modern for Vintage One Piece (The 80/20 Rebalancing Playbook)  
-**Headline:** 80/20 RULE  
-**Sub-headline:** Starter vs wealth retention  
-**Badge:** MARKET FORECASTING  
+### Title block
 
-### Title C
 
-**Title:** You're Rebalancing Wrong — Modern vs Vintage One Piece TCG Explained  
-**Headline:** MODERN → VINTAGE?  
-**Sub-headline:** Two phases · one exception  
-**Badge:** PORTFOLIO LOGIC  
+| Field            | Value                                                            |
+| ---------------- | ---------------------------------------------------------------- |
+| **Full title**   | Sell Your Grail or Sell the New Set? (One Piece TCG Rebalancing) |
+| **Headline**     | A OR B?                                                          |
+| **Sub-headline** | It depends                                                       |
+| **Badge**        | PORTFOLIO LOGIC                                                  |
 
-## Thumbnail
 
+### Thumbnail block
+
+
+| Field              | Value                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| **Layout**         | Face left · split A/B center-right · badge top-right                                       |
+| **Primary visual** | **A** = vintage/foundational box · **B** = modern/new set box · subtle VS or arrow between |
+| **Text on thumb**  | **A OR B?** (largest) · **IT DEPENDS** (sub)                                               |
+| **Color mood**     | Gold prestige navy — A side warm gold · B side cool teal                                   |
+| **Avoid**          | REBALANCE-only headline (doesn't match question hook) · price walls · TOP 10               |
+
+
+### Promise line
+
+> Viewer expects: pick A or B, learn **it depends on BUILD vs PROTECT**, get rebalance triggers + HOLD vs TRADE.
+
+### Coherence
+
+
+| Check                                                        | Pass? |
+| ------------------------------------------------------------ | ----- |
+| Hook matches headline (A/B question)                         | ✅     |
+| Title implies same debate (grail vs new set)                 | ✅     |
+| Thumbnail readable in 2s as A/B choice video                 | ✅     |
+| No bait — script delivers BUILD/PROTECT + triggers + buckets | ✅     |
+
+
+---
+
+## Package B — Strategic rebalancing (prestige)
+
+
+| Field            | Value                                                                   |
+| ---------------- | ----------------------------------------------------------------------- |
+| **Full title**   | Strategic Rebalancing: When to Sell Modern for Vintage One Piece Grails |
+| **Headline**     | REBALANCE                                                               |
+| **Sub-headline** | Modern → Vintage                                                        |
+| **Badge**        | PORTFOLIO LOGIC                                                         |
+
+
+**Why not winner:** Strong macro title but **doesn't match** spoken A/B hook — thumb and first 30s would feel disconnected.
+
+---
+
+## Package C — Wrong way fear
+
+
+| Field            | Value                                                         |
+| ---------------- | ------------------------------------------------------------- |
+| **Full title**   | You're Rebalancing One Piece TCG Backwards (A or B Explained) |
+| **Headline**     | WRONG WAY?                                                    |
+| **Sub-headline** | Grail vs new set                                              |
+| **Badge**        | MARKET FORECASTING                                            |
+
+
+**Why not winner:** Fear angle works but **A OR B?** is more interactive — higher comment + watch-through for cold traffic.
+
+---
+
+## Scoring
+
+
+| Package | Coherence | CTR emotion | Saturation fresh | List clarity | Channel fit | **Total** |
+| ------- | --------- | ----------- | ---------------- | ------------ | ----------- | --------- |
+| **A**   | 10        | 14          | 9                | 9            | 14          | **56**    |
+| B       | 7         | 11          | 8                | 8            | 13          | 47        |
+| C       | 8         | 13          | 8                | 8            | 12          | 49        |
+
+
+## Winner: Package A
+
+**A OR B?** locks title, thumbnail, and intro into one question. Matches Ten Year Plan's "wrong question" energy with **participation** — drives comments (`A or B + BUILD or PROTECT`).
+
+---
+
+## Thumbnail (approved — Package A)
+
+**Mockup file:** `scripts/assets/thumbnails/2026-06-strategic-rebalancing-thumbnail-mockup-v1.png`  
 **Canvas:** 1280 × 720  
-**Mood:** Prestige portfolio / macro — match Ten Year Plan V1 gold lane
 
-### Layout
 
-| Layer | Spec |
-|-------|------|
-| Background | Dark navy `#0a1628`, subtle balance-scale or portfolio pie graphic (80/20) |
-| Left ~35% | JJ face — serious, teal or gold rim light |
-| Center-right | **REBALANCE** or **80/20** — largest text, white + gold |
-| Sub-headline | `MODERN → VINTAGE` or `CREATE · RETAIN` — light gray |
-| Top-right badge | **PORTFOLIO LOGIC** — gold on navy |
-| Right edge | Split visual: modern box stack (left) → arrow → vintage/foundational box (right) |
+| Layer           | Spec                                                             |
+| --------------- | ---------------------------------------------------------------- |
+| Background      | Dark navy `#0a1628` → `#1a2744`                                  |
+| Left ~30%       | JJ face — gold rim light                                         |
+| Center-right    | **A OR B?** — largest, white + gold `#D4AF37`                    |
+| Sub             | **IT DEPENDS** — gray                                            |
+| Split visual    | **A** + vintage box (gold tint) · **B** + modern box (teal tint) |
+| Top-right badge | **PORTFOLIO LOGIC** — gold on `#0d1f3c`                          |
 
-### Avoid
 
-TOP 10 price lists, OP-01 price shock as only hook, screaming arrows
+**Fonts:** Bebas Neue / Anton (headline) · Montserrat (badge, sub)
+
+**YouTube title (publish):** Sell Your Grail or Sell the New Set? (One Piece TCG Rebalancing)
 
 ---
 
 ## Voiceover script
 
-What's up, pirates! Today we're going to talk about **strategic rebalancing** — and specifically, **when to sell modern One Piece sets for vintage grails.**
+What's up, pirates! Today we're going to talk about **when to sell modern One Piece** and **when to buy vintage grails** — and sometimes it's the other way around.
 
-Because here's the thing nobody says out loud: **the right trade depends on which phase you're in.**
+But before I give you my take — **I want your answer.**
 
-If you're **starting out** with limited capital, creating money is a **different skill** than retaining wealth. In real life, young investors take risk to build a stake. Later, they rotate into assets that **don't give it back** in a cooldown.
+What do you think is the correct move?
 
-One Piece TCG works the same way — but almost every video picks one side. "Only buy OP-01." Or "only chase the new set." Both can be wrong **depending on where you are.**
+Sell your **vintage** to buy the **next newest set or...**
 
-By the end of this video, you'll know:
+Sell modern **set** to **pick up vintage.**
 
-- **When** to sell modern and rotate into vintage — and when **not** to  
-- The **3 rebalance triggers** — profit, reprint, quarterly  
-- The **2 buckets** — HOLD vs TRADE modern  
-- How this ties to **Straw Hat and Boa**, **English** product, and the same discipline from my Ten Year Plan video  
+...
 
-NOTE: I'm talking **English** sets. Vintage grails doesn't mean whale trophies — it means **foundational** early-block sealed and chase cards that survive a decade.
+**It depends.**
 
-Stick around — because **HOLD vs TRADE** is the one mistake that makes you sell the wrong box.
-
-Let's get into it.
+And if that answer confuse you — good. Because **both can be right or wrong.** It depends on what is your phase in the hobby.
 
 ---
 
-## Part 1 — Two phases, two skill sets
-
-Let me break it down.
+## Part 1 — The two modes
 
 ---
 
-### Point 1 — Creating money vs retaining wealth
+### Mode 1 — BUILD
 
-**Point 1 — Making money and keeping money are not the same game.**
+**BUILD mode.** Maybe you only own a few boxes. You're still figuring out what is your next move. Selling an older box to jump on a modern set? Some might call you a scalper but that can be the right call — you're trying to **make money**, not retire on 1pc OP-01 box.
 
-**Creating wealth** — you're starting out, side-income mindset, learning the market. You need **velocity**. Modern sets are cheaper to enter, more action, more flip windows, more lessons. You take **calculated risk.**
+If this sounds like you — you're in **BUILD mode.**
 
-**Retaining wealth** — you've built a stack. Your job is **not** to round-trip gains into launch-week hype. You sell **generic modern strength** and rotate into **foundational vintage** — early blocks, structural sealed, Straw Hat and Boa chase that doesn't get reprinted into oblivion.
+I run about **80% modern, 20% vintage** here. Most of my buys are newer booster boxes at a price I'd actually be okay holding — cards I can flip when they pop, and wins I put back into the next play. I'm not pretending I'm buying a four-thousand-dollar Romance Dawn box with my paycheck.
 
-Most collectors lose because they use the **retention playbook** when they should be creating — or the **creation playbook** when they should be protecting.
+Now **20% vintage** is the products I've already breaked. These are the products I 2pcs then sold 1 to breakeven and held the other.
 
-This video answers: **which direction is your next sale?**
+I've seen guys sell older box to fund a modern set they believe in. I'm not mad at that, and you shouldn't be too.
 
----
+The market is going to do it's thing and you cannot control that. Successful people don't blame anyone. If you blame someone for your loss, that means you're not in control of your life. Focus on what you can control and you will be successful too. 
 
-### Point 2 — Wealth creation: 80% modern / 20% foundational seed
-
-**Point 2 — If you're in wealth creation mode, run 80% modern, 20% old.**
-
-**Eighty percent modern** — buy-zone main sets, liquidity, trim winners, reinvest. You're not buying four-thousand-dollar OP-01 boxes on day one. You're **building capital and skill** in the market you're actually in.
-
-**Twenty percent foundational seed** — one touch of the vintage lane so you're not starting from zero later. A dipped OP-03 or OP-04 box. One Straw Hat or Boa SP from an early set at floor. Small. Intentional. A **seed**, not a retirement fund.
-
-In this phase, **selling slower old weight to fund modern momentum** can make sense — if that old position isn't your core hold and you need **fuel** for the creation game. That's risk-on. That's the starter path.
-
-I'll be upfront with you — this is **not** the phase where you liquidate everything and YOLO OP-16 launch week. It's disciplined modern **with** a vintage seed.
+You're not playing defense yet. You're still trying to score.
 
 ---
 
-### Point 3 — Wealth retention: 80% vintage / 20% modern
+### Mode 2 — PROTECT
 
-**Point 3 — If you're in wealth retention mode, flip the split: 80% vintage, 20% modern.**
+**PROTECT mode.** You've already got wins on the shelf. Now the job is **not** to bleed it all back into every preorder. You sell the extra modern and you put that into older English sets and Straw Hat or Boa cards you'd actually keep for years. That's **keeping money.**
 
-**Eighty percent vintage / foundational** — early-block English sealed at buy zone, Extra Boosters and Premium Boosters Bandai doesn't reprint, Straw Hat and Boa SP and above from OP-01 through OP-05 era product. This is the **vault.**
+**Getting money and keeping money are two different skills. according to, P.T. Barnum**, *The Art of Money Getting* (1880), same theme but about **earning vs not spending it all**:
 
-**Twenty percent modern** — not flip fuel. A **hold slice** for sets that behave like foundational — I'll break that out in the exception.
+> **“However easy it may be found to make money, I have no doubt … it is the most difficult thing in the world to keep it.”**
 
-In this phase, **sell modern sets for vintage grails** is the default rebalance:
+If you've been in OPTCG since 2022, you're probably in **PROTECT mode.**
 
-- Trim **generic** modern sealed you bought on hype  
-- Sell modern SP flips that **aren't** Straw Hat or Boa  
-- Take profit after **2x** or into **November–December** strength  
-- Rotate proceeds into **foundational** — OP-02, OP-03, OP-04 territory before you obsess over OP-01 trophies  
+Here I will flip it: **80% vintage, 20% modern you keep.**
 
-**Do not** sell vintage to buy OP-17 pre-order hype. That's backwards once you're in retention mode. That's how you **keep** wealth — you stop downgrading your book.
+The eighty is the stuff that stays in the long-term — early English boxes bought at a buy zone you believed in, sealed Extra Booster 01, and Straw Hat and Boa SP and up from those OP-01 through OP-05 era sets. That's what I'm **not** selling.
 
----
+The twenty percent is modern I'm still happy to own is anniversary sets, EB and PRB — and Limited promo cards.
 
-## Part 2 — When to sell (keep it simple)
+Sell the **TRADE** stuff — the extra OP-15, the box you paid too much for on hype — and buy **older sets** like OP-02, OP-03, OP-04 before you start dreaming about OP-01 trophies.
 
----
+I'll be upfront — selling your vintage to fund an OP-17 preorder when you're already up? That's trading **down**. Instead of trading down, add capital for the pre-order. I've watched people do it, they wanted to YOLO all their cards and older sets just to make life changing money in a short time. That's not investing, that's gambling.
 
-### Point 4 — Three times you rebalance
+PROTECT mode isn't boring — it's just you stopping yourself from giving back every win you already earned.
 
-**Point 4 — Only three reasons to rebalance. That's it.**
-
-**Reason 1 — You made money.**
-
-Your modern position hit the number you wrote down before you bought — double, triple, whatever you picked. **Sell some.** Rotate that profit into vintage if you're in retention mode. No number on paper? Don't sell. You're guessing.
-
-**Reason 2 — Bandai added more supply.**
-
-Reprint confirmed — like OP-13 and EB-03 in June twenty twenty-six. If you're sitting on too much of **that** set, **trim it.** Don't panic-sell your whole collection. Just the set Bandai is flooding.
-
-**Reason 3 — It's been a quarter.**
-
-One rebalance every **three months**. Not every new YouTube video. Not every launch week. Same discipline as the Ten Year Plan — one move, then wait.
-
-That's the whole trigger list. **Profit. Reprint. Quarterly.** If none of those three are true, **don't rebalance.**
+Get the mode wrong and you'll make a move you regret. I've seen people sell the box they'll never get back, and I've seen people sit on five copies of the same set while the price drifts down.
 
 ---
 
-## Part 3 — Two buckets (HOLD vs TRADE)
+## Part 2 — When you're allowed to move money
+
+Now you know if you're on BUILD mode or PROTECT mode. The next question is: **when** are you actually allowed to sell — or buy?
 
 ---
 
-### Point 5 — HOLD modern vs TRADE modern
+**Trigger 1 — Pre-order.**
 
-**Point 5 — Split modern into two buckets. Easy.**
+Before you lock an OP-17 preorder — or any set — **write the number down.** Not your profit target. Your **budget.** What can you actually spend after rent, car payment, mortgage, and food are covered?
 
-Before you sell anything, ask: **HOLD bucket or TRADE bucket?**
+That's the only money that belongs in One Piece. Side income you can lose without missing a bill — not next month's rent because a JJ from Frogpirates said that OP-17 is a guaranteed profit.
 
-**HOLD bucket — never sell these in a rebalance:**
+**Don't use credit card. Don't use leverage.** If you're floating preorders on a credit card and praying the flip pays it off before the statement hits, you're not investing — you're gambling with interest. I don't do that, and you shouldn't either.
 
-- **Anniversary sets** — OP-09, OP-13, OP-17  
-- **All Extra Boosters** — Bandai doesn't reprint them  
-
-That's it. Treat them like vintage. They stay.
-
-**TRADE bucket — this is what you sell:**
-
-- Regular main sets — OP-15, OP-16, standard releases  
-- Anything you bought on hype above buy zone  
-- Flips that aren't Straw Hat or Boa  
-
-**Retention mode?** Sell TRADE bucket → buy foundational vintage.
-
-**Creation mode?** You're mostly building TRADE bucket — but when something in HOLD bucket lands in your hands, **don't flip it.** File it away.
-
-One sentence to remember: **Sell TRADE. Keep HOLD.** Never mix them up.
+No extra cash for pre-order, then you're not buying anything.
 
 ---
 
-## Part 4 — How to execute the trade
+### Trigger 2 — You hit your number
+
+Write the target down **before** you buy — two-x, three-x, whatever would make you happy. When you hit it on something in the **TRADE pile**, sell **some**, not because you're scared, because that was the plan.
+
+In PROTECT mode, I'd take that cash and look at older sets I've been waiting on. In BUILD mode, I'm probably putting it back into modern — still playing offense.
+
+No target on paper? Then you're not selling off a plan — you're selling because your heart rate went up, and I don't do that.
 
 ---
 
-### Point 6 — Sell into strength, buy the boredom
+### Trigger 3 — Reprint fear = buy window
 
-**Point 6 — Execution is timing, not talent.**
+**Bandai confirmed a reprint — and that's usually when I look to buy, not when I panic sell.**
 
-**Sell** into holiday windows — November, December — or post-tournament spikes when your modern names are hot.
+I've already seen people on X acting like the set's finished. Prices dip on TCGPlayer, and that's when I pull up my list — not when I start dumping boxes.
 
-**Buy** vintage on boredom — post-reprint dips, flat weeks, when finance Twitter says the game's dead.
+I'll only buy if the set still passes my rules: Straw Hat crew or Boa in the pool, something I'd actually hold, and a price I wrote down months ago.
 
-Know your **fee math** before you rotate. Thirteen percent gone is not a rounding error. A rebalance that clears less than your target after fees is a **failed** rebalance.
+When Bandai confirms a reprint, weak hands sell first.
 
-English liquidity on both legs — TCGPlayer sold comps, tracked shipping, no "trust me bro" Facebook deals on grail-tier moves.
+I'm not buying everything because Bandai sneezed. I'm buying the fear dip on stuff I already wanted, especially in PROTECT mode when I'm trying to add older English sets.
+
+And my OP-13 anniversary box in the HOLD pile? I'm not listing that because a reprint headline dropped. If anything I'm glad I kept it.
 
 ---
 
-## Closing stack
+## Part 3 — HOLD vs TRADE
 
-Strategic rebalancing in One Piece TCG is not one answer forever.
+Hear me out — before you list anything, split your modern into two piles in your head.
 
-**Starting out, creating wealth?** **80% modern, 20% seed** — risk, velocity, learn the market. Sell old weight for modern **fuel** only when it serves the creation game.
+---
 
-**Built a stack, retaining wealth?** **80% vintage, 20% modern hold slice** — sell **generic modern** for **foundational grails.** Stop funding hype with your best assets.
+### Rule — Sell TRADE. Keep HOLD.
 
-**Exception everywhere:** **HOLD bucket** — anniversary sets + all EB. **TRADE bucket** — everything else modern you rotate when the three triggers hit.
+**The HOLD pile — I don't sell these when I'm moving money around:**
 
-Know your phase. Know your split. **Profit. Reprint. Quarterly.**
+**OP-09, OP-13, OP-17** — anniversary sets. And **every Extra Booster** Bandai put out, because they don't reprint those like normal boosters.
 
-If you haven't watched the Ten Year Plan video yet — that's your **filter** for what counts as a grail. This video is **when to move the money.**
+I treat those like vintage, and they stay in the pile.
+
+**The TRADE pile — this is what I'm okay selling when profit or quarterly says go:**
+
+Your regular OP-15, OP-16 type boxes. Stuff you paid too much for because everyone was hyped. Flips that aren't Straw Hat or Boa.
+
+In PROTECT mode, when I sell from the TRADE pile, I'm usually buying older English sets with the cash.
+
+In BUILD mode, I'm mostly buying TRADE stuff anyway — but if an anniversary box or an EB ends up in my hands, I'm not flipping it for lunch money. That goes in HOLD.
+
+The rule in my head is sell from TRADE, keep HOLD. Mix those piles up once and you'll hate yourself later — I've done it, and I don't want you repeating my mistake.
+
+---
+
+## Part 4 — How to pull it off
+
+You picked your mode and you know your triggers — now the part that actually matters is timing.
+
+---
+
+### Execute 1 — Sell high, buy boring
+
+I like selling around **November and December** when gift money hits the market — or right after a tournament when a card you're holding gets hot.
+
+And I like buying vintage when a reprint headline scares people on Twitter — or when the set's been quiet for weeks and nobody's making videos about it. That's usually when I get the best price.
+
+---
+
+### Execute 2 — Count the fees
+
+Between TCGPlayer and shipping you're often giving up around **thirteen percent**. Check what cards actually **sold** for — not what some guy listed.
+
+I've seen people win a trade on paper and walk away with ten bucks after fees. That's when I know the move wasn't worth the hassle.
+
+---
+
+## Closing
+
+So — **BUILD or PROTECT?** **A or B?** No single answer fits every collector.
+
+If you're still building, stay mostly modern, keep a little vintage, and don't let launch week bully you. **Option A** can be part of your story.
+
+If you're protecting what you built, sell from the TRADE pile, buy older sets you trust, and stop funding every preorder with your best cards. **Option B** is where you live.
+
+What stays in **HOLD** stays there — OP-09, OP-13, OP-17, and every EB.
+
+I only move on a **real trigger** — profit, fear, or a quarterly check-in when one of those is actually ready. Pre-order money stays separate: bills first, no credit card, no leverage.
+
+Ten Year Plan tells you **what** belongs in the long-term pile. This video is **when** to sell and when to buy.
+
+If you haven't seen that one yet — watch it after this. It'll click even harder.
 
 ---
 
 That's it for today, pirates. If you found this helpful, hit that subscribe button.
 
-Comment down below: **are you in creation or retention mode — and do you know which of your boxes are HOLD vs TRADE?**
+Comment down below: **Option A or Option B — and are you in BUILD or PROTECT mode right now?**
 
 I'll catch you in the next one. See you on our next voyage.
 
@@ -222,31 +304,39 @@ I'll catch you in the next one. See you on our next voyage.
 
 ## YouTube description (human)
 
-When should you sell modern One Piece sets and rotate into vintage grails — and when is that the **wrong** move?
+When should you sell modern One Piece and buy vintage — or the other way around?
 
-This video is **strategic rebalancing** for English collectors: two phases, two skill sets, two simple rules.
+**Option A:** Sell your grail to buy the new set.  
+**Option B:** Sell the new set to buy vintage.  
 
-**Wealth creation (starting out):** 80% modern / 20% foundational seed — build capital and skill. Modern is the engine.
+**Answer: it depends.** BUILD vs PROTECT.
 
-**Wealth retention (protecting a stack):** 80% vintage / 20% modern — sell TRADE bucket modern, buy foundational early-block sealed and Straw Hat/Boa chase.
+**BUILD:** 80% modern boxes/cards · 20% one older buy to start  
+**PROTECT:** 80% vintage/keepers · 20% modern you hold — sell TRADE, keep HOLD  
 
-**When to rebalance (3 reasons only):** profit target hit · Bandai confirmed reprint on your set · once per quarter
+**Pre-order:** budget only after rent, car, mortgage, food · no credit card · no leverage  
+**Sell when:** you hit your written target (2x/3x) on TRADE pile  
+**Buy when:** reprint fear hits a set on your list at your price  
+**Speed limit:** one real move per quarter — don't force it if nothing qualifies  
 
-**Two buckets:** HOLD (OP-09, OP-13, OP-17, all EB) vs TRADE (regular modern) — sell TRADE, keep HOLD
+**HOLD (never sell):** OP-09, OP-13, OP-17, all EB  
+**TRADE (okay to sell on profit / quarterly):** regular modern when triggers hit  
 
-Pairs with my **Ten Year Plan** video — filter first, rebalance second.
+Pairs with **Ten Year Plan** — filter first, rebalance second.
 
 NOTE: English product. Not financial advice. Verify buy zones on TCGPlayer before you trade.
 
-Creation or retention — what's your split? Comment below.
+Drop **A or B** + **BUILD or PROTECT** below. Did you pick the right move for your phase?
 
 ---
 
 ## Production notes
 
-- **Format:** B — thesis points (6 points + closing stack)
-- **Runtime:** ~12–14 min
+- **Format:** B — modes + triggers + buckets + execute (mirrors Ten Year Plan: rules → when → how)
+- **Runtime:** ~10–12 min (tighter than prior draft)
 - **End screen:** Link Ten Year Plan video first
-- **B-roll:** 80/20 pie graphic, modern box stack → arrow → OP-02/03/04, OP-13/OP-17 anniversary product shots, reprint news headline (OP-13 June 2026)
-- **On-screen text:** Phase 1 vs Phase 2 split table; **HOLD vs TRADE** two-box graphic
+- **B-roll:** 80/20 graphic, modern boxes → older OP-02/03/04 boxes, OP-13/OP-17 product shots, OP-13 reprint headline
+- **On-screen text:** **A vs B** split early · BUILD vs PROTECT table · HOLD vs TRADE boxes
+- **Thumbnail mockup:** `scripts/assets/thumbnails/2026-06-strategic-rebalancing-thumbnail-mockup-v1.png`
 - **Verify before film:** Current OP-13 reprint timing; OP-17 release date (Aug 26, 2026)
+
