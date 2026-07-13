@@ -10,30 +10,36 @@
 
 ### Title A (winner)
 
-| Field | Value |
-|-------|-------|
-| **Full title** | 6 Advanced One Piece TCG Investing Tips (Most Collectors Skip #1) |
-| **Headline** | 6 TIPS |
-| **Sub-headline** | Liquidity · Focus · Cash |
-| **Badge** | INVESTOR PLAYBOOK |
+
+| Field            | Value                                                             |
+| ---------------- | ----------------------------------------------------------------- |
+| **Full title**   | 6 Advanced One Piece TCG Investing Tips (Most Collectors Skip #1) |
+| **Headline**     | 6 TIPS                                                            |
+| **Sub-headline** | Liquidity · Focus · Cash                                          |
+| **Badge**        | INVESTOR PLAYBOOK                                                 |
+
 
 ### Title B
 
-| Field | Value |
-|-------|-------|
-| **Full title** | Just Because It's Luffy Doesn't Mean You Should Buy It (OPTCG Liquidity Rules) |
-| **Headline** | LIQUIDITY |
-| **Sub-headline** | Before you buy OP-16 |
-| **Badge** | ADVANCED RULES |
+
+| Field            | Value                                                                          |
+| ---------------- | ------------------------------------------------------------------------------ |
+| **Full title**   | Just Because It's Luffy Doesn't Mean You Should Buy It (OPTCG Liquidity Rules) |
+| **Headline**     | LIQUIDITY                                                                      |
+| **Sub-headline** | Before you buy OP-16                                                           |
+| **Badge**        | ADVANCED RULES                                                                 |
+
 
 ### Title C
 
-| Field | Value |
-|-------|-------|
-| **Full title** | You're Paper Rich and Cash Broke in One Piece TCG (Fix This First) |
-| **Headline** | CASH BROKE? |
-| **Sub-headline** | Paper gains ≠ liquid |
-| **Badge** | MISTAKE PREVENTION |
+
+| Field            | Value                                                              |
+| ---------------- | ------------------------------------------------------------------ |
+| **Full title**   | You're Paper Rich and Cash Broke in One Piece TCG (Fix This First) |
+| **Headline**     | CASH BROKE?                                                        |
+| **Sub-headline** | Paper gains ≠ liquid                                               |
+| **Badge**        | MISTAKE PREVENTION                                                 |
+
 
 ---
 
@@ -49,58 +55,40 @@
 
 ## Video flow (runtime ~14–16 min)
 
-| Section | Time | Purpose |
-|---------|------|---------|
-| Hook + devil's advocate | 0:00–1:00 | Reframe "good set" ≠ "buy now" |
-| Point 1 — Liquidity | 1:00–4:30 | Anchor framework + OP-16/OP-17 example |
-| Point 2 — Know your phase | 4:30–5:45 | Tease dedicated phase video |
-| Point 3 — LGS network | 5:45–7:30 | Buyers, suppliers, alpha |
-| Point 4 — Focus | 7:30–9:15 | Shiny object syndrome |
-| Point 5 — Cash reserves | 9:15–11:00 | Paper gains vs real money |
-| Point 6 — Geography | 11:00–13:00 | PH vs US examples |
-| Recap + CTA | 13:00–end | One question before every buy |
+
+| Section                   | Time        | Purpose                                |
+| ------------------------- | ----------- | -------------------------------------- |
+| Hook + devil's advocate   | 0:00–1:00   | Reframe "good set" ≠ "buy now"         |
+| Point 1 — Liquidity       | 1:00–4:30   | Anchor framework + OP-16/OP-17 example |
+| Point 2 — Know your phase | 4:30–5:45   | Tease dedicated phase video            |
+| Point 3 — LGS network     | 5:45–7:30   | Buyers, suppliers, alpha               |
+| Point 4 — Focus           | 7:30–9:15   | Shiny object syndrome                  |
+| Point 5 — Cash reserves   | 9:15–11:00  | Paper gains vs real money              |
+| Point 6 — Geography       | 11:00–13:00 | PH vs US examples                      |
+| Recap + CTA               | 13:00–end   | One question before every buy          |
+
 
 ---
 
 ## Voiceover script
 
-What's up, pirates! JJ from Frogpirates here.
+What's up, pirates! Today we're going past the beginner stuff. You already know what holds. Luffy, Boa, anniversary sets, extra boosters and PRB set.
 
-Today we're going past the beginner stuff. You already know Luffy holds. You already know OP-16 is a strong set. You probably already know OP-17 is the next anniversary drop in August.
+**But That doesn't mean you should buy anything right now.**
 
-**That doesn't mean you should buy anything right now.**
-
-I'm giving you **six advanced investing tips** that separate people who actually keep money from people who just collect screenshots of TCGPlayer prices on their phone.
-
-NOTE: I'm talking **English** product, western buyers, and decisions in the **$200–$500** range — the stuff that actually matters when you have a day job and not a warehouse.
+I'm giving you **six advanced investing tips** that separate people who actually keep money from people who buy anything that merely meets the beginner rules.
 
 Stick around — because **tip number one** is the one almost everyone skips, and it's the one that cost me the most when I ignored it.
 
 Let's get into it.
 
----
-
-### Devil's advocate
-
-Are you insane, JJ? OP-16 has three Admiral manga cards. OP-17 is the fourth anniversary set. Of course you buy. That's free money.
-
-Hear me out.
-
-A **good product** and a **good buy for you right now** are not the same thing. The market doesn't care that you were right on paper if you can't sell when you need to, or if the next set eats your cash before you exit.
-
----
-
-## Point 1 — Liquidity comes before conviction
-
 **Point 1 — Ask about liquidity before you ask if the set is good.**
 
-Everyone starts with: *Is this Luffy? Is this a winner set? Will OP-16 profit?*
+Everyone starts with: *Is this Luffy? Is this a winner set? Will OP-17 profit?*
 
 I start with: **If I buy this today, can I sell it before the next thing I actually need money for?**
 
-That's liquidity. Not "will it go up someday." Can you **get out** without begging in Facebook groups for three weeks?
-
-Here's the scene. OP-16 boxes are sitting around **~$200** on TCGPlayer right now. MSRP is about **$120**. So the market already agrees it's a good set — that's baked in. You're not buying a secret. You're buying at a price where **your exit window matters**.
+That's liquidity. Not "will it go up someday?" It's whether you can get out without having to hard-sell the product or take a massive discount off market price.
 
 OP-17 drops **August 28, 2026**. Fourth anniversary. Global simultaneous release. First time JP and EN launch together. You know what happens when the next big set shows up — attention moves, preorders start, and people who went all-in on the last set suddenly need cash they don't have.
 

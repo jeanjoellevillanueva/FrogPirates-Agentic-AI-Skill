@@ -118,21 +118,21 @@
 
 ## Voiceover script
 
-What's up, pirates! Today we're going to talk about **when to sell modern One Piece** and **when to buy vintage grails** — and sometimes it's the other way around.
+What's up, pirates! Today we're going to talk about when to sell modern One Piece and when to buy vintage grails — and sometimes it's the other way around.
 
-But before I give you my take — **I want your answer.**
+But before I give you my take — I want your answer.
 
 What do you think is the correct move?
 
-Sell your **vintage** to buy the **next newest set or...**
+Sell your vintage to buy the next newest set or...
 
-Sell modern **set** to **pick up vintage.**
+Sell modern set to pick up vintage.
 
 ...
 
-**It depends.**
+It depends.
 
-And if that answer confuse you — good. Because **both can be right or wrong.** It depends on what is your phase in the hobby.
+And if that answer confuse you — good. Because both can be right or wrong. It depends on what is your phase in the hobby.
 
 ---
 
@@ -142,13 +142,13 @@ And if that answer confuse you — good. Because **both can be right or wrong.**
 
 ### Mode 1 — BUILD
 
-**BUILD mode.** Maybe you only own a few boxes. You're still figuring out what is your next move. Selling an older box to jump on a modern set? Some might call you a scalper but that can be the right call — you're trying to **make money**, not retire on 1pc OP-01 box.
+BUILD mode. Maybe you only own a few boxes. You're still figuring out what is your next move. Selling an older box to jump on a modern set? Some might call you a scalper but that can be the right call — you're trying to make money, not retire on 1pc OP-01 box.
 
-If this sounds like you — you're in **BUILD mode.**
+If this sounds like you — you're in BUILD mode.
 
-I run about **80% modern, 20% vintage** here. Most of my buys are newer booster boxes at a price I'd actually be okay holding — cards I can flip when they pop, and wins I put back into the next play. I'm not pretending I'm buying a four-thousand-dollar Romance Dawn box with my paycheck.
+I run about 80% modern, 20% vintage here. Most of my buys are newer booster boxes at a price I'd actually be okay holding — cards I can flip when they pop, and wins I put back into the next play. I'm not pretending I'm buying a four-thousand-dollar Romance Dawn box with my paycheck.
 
-Now **20% vintage** is the products I've already breaked. These are the products I 2pcs then sold 1 to breakeven and held the other.
+Now 20% vintage is the products I've already breaked. These are the products I 2pcs then sold 1 to breakeven and held the other.
 
 I've seen guys sell older box to fund a modern set they believe in. I'm not mad at that, and you shouldn't be too.
 
@@ -160,23 +160,23 @@ You're not playing defense yet. You're still trying to score.
 
 ### Mode 2 — PROTECT
 
-**PROTECT mode.** You've already got wins on the shelf. Now the job is **not** to bleed it all back into every preorder. You sell the extra modern and you put that into older English sets and Straw Hat or Boa cards you'd actually keep for years. That's **keeping money.**
+PROTECT mode. You've already got wins on the shelf. Now the job is not to bleed it all back into every preorder. You sell the extra modern and you put that into older English sets and Straw Hat or Boa cards you'd actually keep for years. That's keeping money.
 
-**Getting money and keeping money are two different skills. according to, P.T. Barnum**, *The Art of Money Getting* (1880), same theme but about **earning vs not spending it all**:
+Getting money and keeping money are two different skills. according to, P.T. Barnum, *The Art of Money Getting* (1880), same theme but about earning vs not spending it all:
 
-> **“However easy it may be found to make money, I have no doubt … it is the most difficult thing in the world to keep it.”**
+> “However easy it may be found to make money, I have no doubt … it is the most difficult thing in the world to keep it.”
 
-If you've been in OPTCG since 2022, you're probably in **PROTECT mode.**
+If you've been in OPTCG since 2022, you're probably in PROTECT mode.
 
-Here I will flip it: **80% vintage, 20% modern you keep.**
+Here I will flip it: 80% vintage, 20% modern you keep.
 
-The eighty is the stuff that stays in the long-term — early English boxes bought at a buy zone you believed in, sealed Extra Booster 01, and Straw Hat and Boa SP and up from those OP-01 through OP-05 era sets. That's what I'm **not** selling.
+The eighty is the stuff that stays in the long-term — early English boxes bought at a buy zone you believed in, sealed Extra Booster 01, and Straw Hat and Boa SP and up from those OP-01 through OP-05 era sets. That's what I'm not selling.
 
 The twenty percent is modern I'm still happy to own is anniversary sets, EB and PRB — and Limited promo cards.
 
-Sell the **TRADE** stuff — the extra OP-15, the box you paid too much for on hype — and buy **older sets** like OP-02, OP-03, OP-04 before you start dreaming about OP-01 trophies.
+Sell the TRADE stuff — the extra OP-15, the box you paid too much for on hype — and buy older sets like OP-02, OP-03, OP-04 before you start dreaming about OP-01 trophies.
 
-I'll be upfront — selling your vintage to fund an OP-17 preorder when you're already up? That's trading **down**. Instead of trading down, add capital for the pre-order. I've watched people do it, they wanted to YOLO all their cards and older sets just to make life changing money in a short time. That's not investing, that's gambling.
+I'll be upfront — selling your vintage to fund an OP-17 preorder when you're already up? That's trading down. Instead of trading down, add capital for the pre-order. I've watched people do it, they wanted to YOLO all their cards and older sets just to make life changing money in a short time. That's not investing, that's gambling.
 
 PROTECT mode isn't boring — it's just you stopping yourself from giving back every win you already earned.
 
@@ -186,17 +186,17 @@ Get the mode wrong and you'll make a move you regret. I've seen people sell the 
 
 ## Part 2 — When you're allowed to move money
 
-Now you know if you're on BUILD mode or PROTECT mode. The next question is: **when** are you actually allowed to sell — or buy?
+Now you know if you're on BUILD mode or PROTECT mode. The next question is: when are you actually allowed to sell — or buy?
 
 ---
 
-**Trigger 1 — Pre-order.**
+Trigger 1 — Pre-order.
 
-Before you lock an OP-17 preorder — or any set — **write the number down.** Not your profit target. Your **budget.** What can you actually spend after rent, car payment, mortgage, and food are covered?
+Before you lock an OP-17 preorder — or any set — write the number down. Not your profit target. Your budget. What can you actually spend after rent, car payment, mortgage, and food are covered?
 
 That's the only money that belongs in One Piece. Side income you can lose without missing a bill — not next month's rent because a JJ from Frogpirates said that OP-17 is a guaranteed profit.
 
-**Don't use credit card. Don't use leverage.** If you're floating preorders on a credit card and praying the flip pays it off before the statement hits, you're not investing — you're gambling with interest. I don't do that, and you shouldn't either.
+Don't use credit card. Don't use leverage. If you're floating preorders on a credit card and praying the flip pays it off before the statement hits, you're not investing — you're gambling with interest. I don't do that, and you shouldn't either.
 
 No extra cash for pre-order, then you're not buying anything.
 
@@ -204,7 +204,7 @@ No extra cash for pre-order, then you're not buying anything.
 
 ### Trigger 2 — You hit your number
 
-Write the target down **before** you buy — two-x, three-x, whatever would make you happy. When you hit it on something in the **TRADE pile**, sell **some**, not because you're scared, because that was the plan.
+Write the target down before you buy — two-x, three-x, whatever would make you happy. When you hit it on something in the TRADE pile, sell some, not because you're scared, because that was the plan.
 
 In PROTECT mode, I'd take that cash and look at older sets I've been waiting on. In BUILD mode, I'm probably putting it back into modern — still playing offense.
 
@@ -214,7 +214,7 @@ No target on paper? Then you're not selling off a plan — you're selling becaus
 
 ### Trigger 3 — Reprint fear = buy window
 
-**Bandai confirmed a reprint — and that's usually when I look to buy, not when I panic sell.**
+Bandai confirmed a reprint — and that's usually when I look to buy, not when I panic sell.
 
 I've already seen people on X acting like the set's finished. Prices dip on TCGPlayer, and that's when I pull up my list — not when I start dumping boxes.
 
@@ -236,13 +236,13 @@ Hear me out — before you list anything, split your modern into two piles in yo
 
 ### Rule — Sell TRADE. Keep HOLD.
 
-**The HOLD pile — I don't sell these when I'm moving money around:**
+The HOLD pile — I don't sell these when I'm moving money around:
 
-**OP-09, OP-13, OP-17** — anniversary sets. And **every Extra Booster** Bandai put out, because they don't reprint those like normal boosters.
+OP-09, OP-13, OP-17 — anniversary sets. And every Extra Booster Bandai put out, because they don't reprint those like normal boosters.
 
 I treat those like vintage, and they stay in the pile.
 
-**The TRADE pile — this is what I'm okay selling when profit or quarterly says go:**
+The TRADE pile — this is what I'm okay selling when profit or quarterly says go:
 
 Your regular OP-15, OP-16 type boxes. Stuff you paid too much for because everyone was hyped. Flips that aren't Straw Hat or Boa.
 
@@ -262,7 +262,7 @@ You picked your mode and you know your triggers — now the part that actually m
 
 ### Execute 1 — Sell high, buy boring
 
-I like selling around **November and December** when gift money hits the market — or right after a tournament when a card you're holding gets hot.
+I like selling around November and December when gift money hits the market — or right after a tournament when a card you're holding gets hot.
 
 And I like buying vintage when a reprint headline scares people on Twitter — or when the set's been quiet for weeks and nobody's making videos about it. That's usually when I get the best price.
 
@@ -270,7 +270,7 @@ And I like buying vintage when a reprint headline scares people on Twitter — o
 
 ### Execute 2 — Count the fees
 
-Between TCGPlayer and shipping you're often giving up around **thirteen percent**. Check what cards actually **sold** for — not what some guy listed.
+Between TCGPlayer and shipping you're often giving up around thirteen percent. Check what cards actually sold for — not what some guy listed.
 
 I've seen people win a trade on paper and walk away with ten bucks after fees. That's when I know the move wasn't worth the hassle.
 
@@ -278,17 +278,17 @@ I've seen people win a trade on paper and walk away with ten bucks after fees. T
 
 ## Closing
 
-So — **BUILD or PROTECT?** **A or B?** No single answer fits every collector.
+So — BUILD or PROTECT? A or B? No single answer fits every collector.
 
-If you're still building, stay mostly modern, keep a little vintage, and don't let launch week bully you. **Option A** can be part of your story.
+If you're still building, stay mostly modern, keep a little vintage, and don't let launch week bully you. Option A can be part of your story.
 
-If you're protecting what you built, sell from the TRADE pile, buy older sets you trust, and stop funding every preorder with your best cards. **Option B** is where you live.
+If you're protecting what you built, sell from the TRADE pile, buy older sets you trust, and stop funding every preorder with your best cards. Option B is where you live.
 
-What stays in **HOLD** stays there — OP-09, OP-13, OP-17, and every EB.
+What stays in HOLD stays there — OP-09, OP-13, OP-17, and every EB.
 
-I only move on a **real trigger** — profit, fear, or a quarterly check-in when one of those is actually ready. Pre-order money stays separate: bills first, no credit card, no leverage.
+I only move on a real trigger — profit, fear, or a quarterly check-in when one of those is actually ready. Pre-order money stays separate: bills first, no credit card, no leverage.
 
-Ten Year Plan tells you **what** belongs in the long-term pile. This video is **when** to sell and when to buy.
+Ten Year Plan tells you what belongs in the long-term pile. This video is when to sell and when to buy.
 
 If you haven't seen that one yet — watch it after this. It'll click even harder.
 
@@ -296,7 +296,7 @@ If you haven't seen that one yet — watch it after this. It'll click even harde
 
 That's it for today, pirates. If you found this helpful, hit that subscribe button.
 
-Comment down below: **Option A or Option B — and are you in BUILD or PROTECT mode right now?**
+Comment down below: Option A or Option B — and are you in BUILD or PROTECT mode right now?
 
 I'll catch you in the next one. See you on our next voyage.
 
