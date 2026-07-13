@@ -8,6 +8,7 @@ These are the **canonical formats** for this channel. When writing new scripts, 
 
 | # | Topic | Format | List |
 |---|--------|--------|------|
+| 0 | **Opening gate** | — | Copy hook from `never-buy-launch-week` or `ten-year-plan` — [opening-gate.md](opening-gate.md) |
 | 1 | SP > Manga | A — Ranked chase | #1–#10 + "How to Spot" framework |
 | 2 | Buy OP13 + EB03 | B — Last call | Point 1–5 + 2 bonus boxes |
 | 3 | Starter decks | C — Few winners | 4 of 29 + verdict |
@@ -75,6 +76,22 @@ These are the **canonical formats** for this channel. When writing new scripts, 
 **Title variants:** BOUGHT THE TOP?, MACRO CRASH, GETTING WORSE.
 
 **Arc:** Validate panic → 5 reasons (scalpers leave, post-anniversary, macro, reprints, Logan top signal) → reframe cycle → EN/SP+/character rules → exit comment CTA.
+
+---
+
+## Anti-example — wrong July 2026 opener (do not copy)
+
+**Bad (agent drift — podcast intro):**
+
+```
+What's up, pirates! JJ from Frogpirates here.
+
+Today we're going past the beginner stuff...
+```
+
+**Why it fails:** Channel name in hook; missing `Today we're going to talk about…` promise on line 1. Repo name (`FrogPirates`) is not on-camera voice.
+
+**Fix:** Use [opening-gate.md](opening-gate.md) + June golden scripts (`never-buy-launch-week`, `ten-year-plan`).
 
 ---
 

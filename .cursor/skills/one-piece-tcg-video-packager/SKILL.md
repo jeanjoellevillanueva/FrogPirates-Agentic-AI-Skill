@@ -110,7 +110,7 @@ Tell script writer: `Write full script using Winning Package [A|B|C], Format [A�
 
 ## Channel constraints (JJ)
 
-- Pirate hook: `What's up, pirates!`
+- **Opening gate (mandatory):** Hook block line 1 must pass [opening-gate.md](../one-piece-tcg-script-writer/opening-gate.md) — `What's up, pirates!` + `Today we're going to talk about…` (or approved variant). **Never** `JJ from Frogpirates here`, channel branding, or podcast intro. Script writer voiceover **wins** if hook drifts.
 - List always visible in title or thumbnail (`TOP 7`, `4 OF 29`, `10 UNDER $25`)
 - Real `$` or `%` on thumbnail when topic is finance/sealed
 - English investor angle when relevant

@@ -19,6 +19,21 @@ ln -s "$(pwd)/.cursor/skills" /path/to/your-project/.cursor/skills
 
 Restart Cursor or start a new agent chat so skills are picked up.
 
+### Git hooks (voiceover opening gate)
+
+```bash
+chmod +x scripts/install-git-hooks.sh scripts/validate-voiceover-openings.sh
+./scripts/install-git-hooks.sh
+```
+
+Commits that touch `scripts/*-script.md` run `validate-voiceover-openings.sh` — blocks `JJ from Frogpirates here` and other drift from [opening-gate.md](.cursor/skills/one-piece-tcg-script-writer/opening-gate.md).
+
+Manual check anytime:
+
+```bash
+./scripts/validate-voiceover-openings.sh
+```
+
 ## Pipeline (run in order)
 
 | Skill | Role |

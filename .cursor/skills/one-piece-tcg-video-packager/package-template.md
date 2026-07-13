@@ -27,13 +27,17 @@ Copy this block three times per session. Fill every field.
 
 ### Hook block (spoken — script writer expands)
 
+**Must pass [opening-gate.md](../one-piece-tcg-script-writer/opening-gate.md).** Line 1 shape:
+
 ```
-What's up, pirates! [1–2 sentences: stakes + promise matching title]
+What's up, pirates! Today we're going to talk about [TOPIC IN PLAIN ENGLISH].
 
 [Beat 2 — why now / data hook]
 
 [Beat 3 — stick around + what list delivers]
 ```
+
+**Never:** `JJ from Frogpirates here` · `Welcome back` · spoken `Hot take:` — voiceover script must use this gate even if you paraphrase the hook.
 
 ### Promise line
 

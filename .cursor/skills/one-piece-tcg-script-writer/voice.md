@@ -2,9 +2,13 @@
 
 ## Opening lines (rotate)
 
+**Mandatory shape** — full gate: [opening-gate.md](opening-gate.md). Do **not** add channel name or `JJ from Frogpirates here` on camera.
+
 - `What's up, pirates! Today we're going to talk about…`
 - `What's up pirates! Today we're talking about why…`
 - `WHAT'S UP PIRATES! Today, we're diving deep into…`
+
+**Never as hook:** `JJ from Frogpirates here` · `Welcome back` · `In today's video` · spoken `Hot take:`
 
 ## Transition lines
 
@@ -54,6 +58,10 @@ Scripts must sound **spoken**, not **generated**. If a block reads like a Linked
 - **Instructional triplets** when teaching a rule: `Let the opening volume hit. Let the rumors flush weak hands. Let the floor form.` — each line advances the same how-to.
 - **List headers** in ranked videos: `#3 — OP04 SP Boa — $767`
 - **One** short punch line for emphasis after a full explanation — not three in a row
+
+### Sass, “Here's…”, and debate loops
+
+Banned phrases, myth-bust stacking, and LinkedIn hot-take energy: [anti-ai-patterns.md](anti-ai-patterns.md). Run grep self-check on voiceover before handoff.
 
 ## Devil's advocate (optional)
 

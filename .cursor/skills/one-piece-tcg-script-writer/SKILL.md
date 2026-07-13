@@ -22,12 +22,12 @@ If a **winning package handoff** exists, use it verbatim for title, thumbnail no
 ## Non-negotiable rules
 
 1. **Always a list** — Ranked `#1` … `#N` **or** `Point 1` … `Point N`. Count = 3–10 (use what the data supports; 5–10 for card lists, 4–5 for product thesis).
-2. **Opening** — Start with: `What's up, pirates!` (or `What's up pirates!`) + one-sentence stakes + "stick around" if payoff is at the end.
+2. **Opening (hard gate)** — Voiceover line 1 **must** match [opening-gate.md](opening-gate.md): `What's up, pirates!` + `Today we're going to talk about…` (or the two alternate patterns there). **Never** `JJ from Frogpirates here`, channel name, or podcast intro. Read one golden script opening before Step 4.
 3. **Every list item needs** — Name, **current price** (USD), and **why it matters** (2–4 sentences: character, rarity, reprint, nickname, pull math, trend).
 4. **Comparisons** — When relevant: vs manga / vs another card / vs MSRP / vs historical price.
 5. **English investor bias** — State EN vs JP when it changes the thesis. Note: Bandai **English** reprint rules differ from Japanese (see [voice.md](voice.md)).
-6. **No fluff** — No generic TCG history lectures unless it supports the list (e.g. Pokémon deck comparison in starter-deck format).
-7. **Human voice** — No AI fragment chains (`Prices wobble. Everyone panics.`). Full sentences, first person, real examples. See [voice.md — avoid AI cadence](voice.md#human-voice--avoid-ai-cadence).
+6. **Skip filler** — No generic TCG history lectures unless it supports the list (e.g. Pokémon deck comparison in starter-deck format).
+7. **Human voice** — No AI fragment chains (`Prices wobble. Everyone panics.`). Full sentences, first person, real examples. See [voice.md — avoid AI cadence](voice.md#human-voice--avoid-ai-cadence) and [anti-ai-patterns.md](anti-ai-patterns.md) (sass phrases, debate loops, “Here's…” starters).
 8. **Closing** — Actionable recap OR verdict, then subscribe + `next voyage` / `See you on our next voyage`.
 
 ## Workflow
@@ -38,8 +38,9 @@ Script progress:
 - [ ] Step 1: Confirm format + list size (formats.md)
 - [ ] Step 2: Gather prices & facts (research or user data)
 - [ ] Step 3: Expand winning hook + script spine into full script
-- [ ] Step 4: Add optional sections (devil's advocate, pro tip, bonus items)
-- [ ] Step 5: Self-check (checklist below)
+- [ ] Step 3b: Read one golden opening — [opening-gate.md](opening-gate.md) + `scripts/2026-06-*` reference
+- [ ] Step 4: Write voiceover (opening must pass opening-gate)
+- [ ] Step 5: Self-check (checklist below) — **fail-closed on opening gate**
 ```
 
 **No packager handoff?** Run [video-packager](../one-piece-tcg-video-packager/SKILL.md) before writing, or draft title A/B/C using [title-packages.md](title-packages.md) and note packager was skipped.
@@ -88,12 +89,14 @@ Voice rules: [voice.md](voice.md).
 
 ### Step 5 — Self-check
 
+- [ ] **Opening gate** — First spoken line passes [opening-gate.md](opening-gate.md) (grep: no `frogpirates`, no `JJ from`; yes `Today we're going to talk about` or approved variant)
 - [ ] Every item numbered and scannable
 - [ ] Prices on every ranked item
 - [ ] List count matches title (e.g. "10 cards" → 10 entries)
 - [ ] At least one **contrarian** or **math/rarity** insight
 - [ ] EN product rules correct (reprints, exclusives)
 - [ ] No AI cadence — no fragment triplets, dramatic stacks, or slogan closers ([voice.md](voice.md#human-voice--avoid-ai-cadence))
+- [ ] No AI sass / LinkedIn phrases — grep voiceover against [anti-ai-patterns.md](anti-ai-patterns.md)
 - [ ] Read-aloud test — every paragraph sounds like JJ talking, not a trailer
 - [ ] No args/returns docstrings (N/A — not code)
 
@@ -130,6 +133,8 @@ Deliver in this order:
 - Audience skew (beginner + intermediate): [audience.md](../one-piece-tcg-channel/audience.md)
 - Format playbooks: [formats.md](formats.md)
 - JJ voice & investor rules: [voice.md](voice.md)
+- Mandatory opening (fail-closed): [opening-gate.md](opening-gate.md)
+- Anti-AI phrases & debate loops (revertible): [anti-ai-patterns.md](anti-ai-patterns.md)
 - Title/thumbnail/hook packages: [video-packager](../one-piece-tcg-video-packager/SKILL.md)
 - Title variants (fallback): [title-packages.md](title-packages.md)
 - Sample scripts (patterns): [examples.md](examples.md)

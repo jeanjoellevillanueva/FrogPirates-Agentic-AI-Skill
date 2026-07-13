@@ -65,11 +65,11 @@
 ### Hook (spoken)
 
 ```
-What's up, pirates! Hot take today — and I'm not talking about OP-17 spoilers.
+What's up, pirates! Today we're going to talk about the one thing that could actually kill One Piece TCG investing — and I promise it's not the reprint panic.
 
-Everyone's arguing about reprints, scalpers, and whether investors are ruining the game. Wrong fight.
+I want you to hear this before the comments section does.
 
-Stick around — I'll give you five things that will NOT kill One Piece investing, and the one structural force that actually can.
+Everyone's arguing reprints, scalpers, investor drama. I'll clear that table fast, then the one slow force I actually worry about — and what I changed in my own buying.
 ```
 
 ### Promise line
@@ -78,13 +78,10 @@ Stick around — I'll give you five things that will NOT kill One Piece investin
 
 ### Script spine
 
-- Point 1: NOT reprints (short-term pain, not terminal)
-- Point 2: NOT investor warfare / community drama
-- Point 3: NOT Bitcoin / crypto / fractional platforms
-- Point 4: NOT scalpers
-- Point 5: YES — declining population (akiya analogy)
-- Point 6: Survival rules (global demand, liquidity, geography, player-linked products)
-- CTA: comment which myth you believed
+- Part 1: One pass — reprints / drama / crypto / scalpers (not four parallel essays)
+- Part 2: Japan akiya story — population as the real killer
+- Part 3: What JJ changed in his own buying (Ten Year Plan + advanced tips callbacks)
+- Closing: akiya test + comment on *your* worry + country
 
 ### Coherence: PASS
 
@@ -113,9 +110,9 @@ Stick around — I'll give you five things that will NOT kill One Piece investin
 ### Hook (spoken)
 
 ```
-What's up, pirates! You want the real threat to One Piece TCG investing? It's not Bandai printing OP-13 again.
+What's up, pirates! Today we're talking about why the real threat to One Piece TCG investing isn't Bandai printing OP-13 again.
 
-I'm walking through five fears the hobby keeps recycling — and the one slow-moving force that actually decides whether your cards have buyers in fifteen years.
+I'll run through the fights you're already tired of — then Japan, population, and what I changed in my own buying.
 ```
 
 ### Coherence: PASS
@@ -177,147 +174,105 @@ I'm walking through five fears the hobby keeps recycling — and the one slow-mo
 
 # VOICEOVER SCRIPT
 
-What's up, pirates! JJ from Frogpirates here.
+What's up, pirates! Today we're going to talk about the one thing that could actually kill One Piece TCG investing — and I promise it's not the reprint panic.
 
-Hot take today — and I need you to sit with it for a second.
+I want you to hear this before the comments section does.
 
-If you're investing in One Piece TCG with real money, everyone on YouTube is training you to watch the wrong threats. Reprint headlines. Scalper rage. Twitter wars about whether investors are ruining locals. Crypto guys saying cards are dead because Bitcoin exists.
+You open YouTube and it's the same fight every week. Reprint panic. Scalper rage. "Investors are killing locals." Someone in the replies says crypto killed cardboard anyway.
 
-I'm not saying those things don't matter. They matter for **this month**.
+I get it. I live in those comments too. When OP-13 reprint news hit, my stomach dropped like yours. When I paid launch-week tax on a box because I didn't want to feel late — same thing.
 
-They are not what kills a TCG investment thesis over ten or twenty years.
+After a few years in this, I think most of that noise is short-term. It can wreck your month. It usually does not decide whether anyone wants your cards in fifteen years.
 
-The thing that kills it — slowly, quietly, the way Japan's empty houses kill a neighborhood — is **declining population**. Fewer people coming in behind you to play, collect, and buy you out.
+The thing that actually scares me — the slow thing — is fewer people coming in behind us. Players. Collectors. The next guy who buys you out. Japan already shows you what that looks like when the humans stop showing up.
 
-NOTE: I'm talking **English** investing for working adults with a side-income mindset. Not tournament grind. Not whale trophy hunting.
+NOTE: English product. Working-adult money. Side income, not quit-your-job bets.
 
-Stick around. I'm giving you **five things that are not the killer**, then the one that is — with Japan as the lesson — and what I'd actually do about it.
+If you've got a binder and a day job, this video is for you. Stick around — I'll tell you what I think is *not* the real killer, what I think *is*, and what I changed in my own buying because of it.
 
 Let's get into it.
 
 ---
 
+## Part 1 — The fights you're stuck in
+
+Let me clear the table first, because I don't want to spend twelve minutes on four separate debates.
+
+**Reprints** — yeah, they hurt. I watched manga prices dip on headlines and felt sick. English usually gets **one** reprint window on a main set, not endless flooding. That punishes bad timing. It does not mean nobody wants One Piece in twenty thirty-five. Pokémon didn't die in ninety-nine. Magic didn't die every rotation. People kept showing up.
+
+**The investor vs player war** — real friction. I've seen locals get priced out. I've seen shop night get quieter when staples spike. Annoying. Loud on Reddit. Still not the same as "no buyers exist."
+
+**Bitcoin, fractional cards, PWCC loans** — my take: new rails. Bitcoin didn't delete the stock market. The same personality that buys a gold SP Luffy tries different apps. That's not what empties a hobby. **Empty signup sheets** empty a hobby.
+
+**Scalpers** — I hate them like you do. Launch week tax is real. They're also downstream sellers. They need a buyer. When even scalpers can't move product, that's when I start asking harder questions.
+
+So no — I'm not making a video that says reprints are good or scalpers are your friend. We're spending a lot of airtime on reprints while the pool of future buyers might be shrinking.
+
+---
+
 ### Devil's advocate
 
-Are you insane, JJ? One Piece doubled its player base during OP-13. Regionals are packed. TCGPlayer is doing billions in GMV. The game is exploding.
+Are you insane, JJ? Peoria regionals were packed. OP-13 doubled the player base. TCGPlayer is enormous. The game is blowing up.
 
-Hear me out.
+Fair. Today looks great. I'm not telling you to sell everything tonight.
 
-Growth today does not cancel demographic math tomorrow. Blockbuster Video had great weekends right before streaming won. My job is not to hype you. It's to make sure you're not holding cardboard that needs a **future buyer** who never shows up.
-
----
-
-## Point 1 — Reprints are not the killer
-
-**Point 1 — Bandai reprinting OP-13 is not what kills One Piece investing.**
-
-Reprints hurt. I've lived it. You watch a manga rare dip 30% on a headline and your stomach drops. For English, Bandai's pattern is usually **one reprint window** on a main set — not infinite Pokémon-style flooding. That changes short-term prices, not whether the IP can support a market.
-
-Reprints are a **liquidity event**, not a **demand extinction event**. Cards get cheaper so more people can play. That's bad if you bought the top last Tuesday. That's not the same as nobody wanting One Piece in 2035.
-
-If reprints were the terminal risk, Pokémon would have died in 1999. Magic would have died every time a core set rotated. They didn't — because the **buyer base kept renewing**.
-
-Reprints punish bad timing. Population decline punishes **everyone** eventually.
+I'm telling you to stop building a ten-year plan like **new humans entering the hobby is guaranteed forever.** Growth this year does not write a check for growth in twenty forty.
 
 ---
 
-## Point 2 — Investor warfare is not the killer
+## Part 2 — Japan taught me the ending
 
-**Point 2 — The "investors vs players" culture war is not what kills the market.**
+This is the part that stuck with me.
 
-Yes, locals get priced out. Yes, some YouTube comments are toxic. Yes, when decks cost too much, new players hesitate. I've seen attendance dip at shops when staples spike.
+Japan peaked around **128 million** people in **2008**. Now it's near **123 million**. Projections put it around **107 million by 2040**. More deaths than births, year after year.
 
-That's real **friction**. Friction slows growth. It does not erase a global IP with Netflix, Crunchyroll, and a manga that still moves millions of volumes.
+And the houses didn't disappear. People did.
 
-Scalpers and flippers are annoying. They're not a structural macro force. They're guys in parking lots. The hobby has survived worse drama every cycle since Magic.
+They call them **akiya** — abandoned homes. Japan's Housing and Land Survey put vacant homes around **nine million**, roughly **14%** of housing stock. Vacancy doubled since the nineties. In some rural prefectures you're looking at **one in five** homes empty.
 
-The question for investors is not "are people mad on Reddit?" The question is: **will there be more 25-year-olds entering the hobby than 65-year-olds leaving it?** Culture war doesn't answer that. Demographics do.
+Younger people moved to the cities. Owners died. Kids didn't want the family place. Tax rules made leaving the shell standing cheaper than tearing it down. So the supply stayed. The **buyers** didn't.
 
----
+Now in some towns you can't sell at a discount. Sometimes there's nobody left to buy.
 
-## Point 3 — Bitcoin and new vehicles are not the killer
+That's the image I can't shake when I hold sealed product.
 
-**Point 3 — Crypto, fractional cards, and "new asset classes" are not stealing One Piece's future.**
+Cardboard is not a farmhouse in Wakayama. I know that. But your exit still needs a person. TCG investing is only "investing" if someone else wants in later. Population decline is the enemy of that — especially in small local markets and aging regions.
 
-Bitcoin didn't kill the stock market. Robinhood didn't kill real estate. PWCC loans and fractional platforms didn't kill graded Pokémon — they **added rails** for people who already wanted exposure.
+One Piece is global. That buys time. Japan's own TCG market grew to roughly **¥300 billion** inside a shrinking country by pulling in adults, women, overseas buyers. Bandai got creative. Good.
 
-New investment vehicles redistribute attention. They don't delete human collectors. The guy buying a gold SP Luffy and the guy buying ETH are often the same personality with different apps.
+I still don't confuse that with infinite new teenagers every year forever. At some point you're fighting for attention in a smaller pool. Generic product dies first. IP-heavy stuff survives.
 
-The risk isn't "crypto ate my lunch." The risk is **total hobby participation** shrinking — fewer people who want *any* physical collectible at any price. That's a population story, not a fintech story.
-
----
-
-## Point 4 — Scalpers are not the killer
-
-**Point 4 — Scalpers are a tax, not a terminal disease.**
-
-Scalpers raise your entry price on launch week. They create memes. They make MSRP boxes feel mythical. I hate paying them as much as you do.
-
-But scalpers **need a downstream buyer**. If the player and collector base is growing, scalpers are speed bumps. If the base is shrinking, scalpers disappear first — because there's nobody left to flip to at a profit.
-
-When you can't sell at MSRP plus twenty bucks anymore, that's not proof scalpers won. Sometimes it's proof **demand thinned**.
-
-Don't confuse "hard to buy cheap" with "market is dying." Confuse **empty tournament signup sheets** with dying.
+For me it comes down to people — not reprint week.
 
 ---
 
-## Point 5 — Declining population is the killer
+## Part 3 — What I changed in my own buying
 
-**Point 5 — The slow killer is declining population — and Japan already shows you the ending.**
+I'm not selling my holds and moving to gold bars. I adjusted how I think — same filters you know if you watch this channel.
 
-This is the hot take. Not reprints. Not drama. **Fewer people.**
+**I stay on Straw Hat and Boa, English, SP and up.** Ten Year Plan rules. If buyers get pickier, side characters get ghosted first.
 
-Japan peaked around **128 million** people in 2008. It's near **123 million** now. Government projections put it around **107 million by 2040**. Fewer births than deaths, year after year.
+**I want proof the game is alive, not just hyped.** Regionals with **five hundred to a thousand** players matter to me more than a Twitter meltdown. Starter decks people open. Locals running OP nights. That's living demand. A closet full of boxes with no game behind them feels like akiya with foil.
 
-What happens to physical assets when the next generation doesn't show up?
+**I buy for where I'll actually sell.** I said this in the advanced tips video. US, PH, EU — different pools. TCGPlayer is a reference, not a promise. A shrinking local scene is Japan in miniature.
 
-**Akiya** — abandoned houses. Japan's latest Housing and Land Survey counted on the order of **nine million vacant homes**, roughly **14%** of housing stock. Vacancy doubled since the 1990s. In rural prefectures, you're looking at **one in five** homes empty — sometimes worse.
+**I keep liquidity like emergency cash.** If I can't move a trade box in about thirty days without begging or taking a stupid discount, I'm holding the wrong product for my market.
 
-Houses don't vanish because reprints dropped. They empty because **people left**. Younger generations moved to Tokyo. Owners died. Inheritance sat unresolved. Tax rules made leaving the shell standing cheaper than demolition. Supply of homes stayed up while **demand from humans** went down.
+**I use the growth window to learn, not YOLO.** OP-13 era growth was real. Great. I used it to build shop relationships and rules — not to pretend every anniversary box is free money.
 
-Now you can't sell at any price in some towns. Not 20% off. **No buyer.**
-
-One Piece cardboard is not a house — but it's the same math at the end of the chain: **your investment only cashes out if someone else wants in.**
-
-TCG investing is a **greater-fool game with a character sticker** unless you tie to an IP that keeps recruiting new fans. Population decline is the enemy of that recruitment — especially in **aging, low-immigration regions** and **small local markets**.
-
-One Piece is global, which buys time. Japan's TCG market actually grew to roughly **¥300 billion** inside a shrinking country — by pulling in adults, women, and overseas buyers. Smart.
-
-But that's **composition change**, not magic. If the whole world ages and birth rates stay low, the **easy growth phase** ends. You're fighting for **share of a shrinking attention pool**, not riding a wave of new teenagers every year.
-
-That's what kills investing — not this week's reprint.
-
----
-
-## Point 6 — What this means for your portfolio
-
-**Point 6 — Invest like buyers might be scarce — because someday they will be.**
-
-I'm not telling you to sell everything and buy gold. I'm telling you to stop treating One Piece like it can't lose **demand**, only **price**.
-
-Here's how I think about it as a working investor:
-
-**Rule 1 — Tie to global IP, not local fad.** Straw Hat and Boa, English, SP and up — the same Ten Year Plan filter. If population shrinks, generic side characters die first.
-
-**Rule 2 — Player-linked products beat pure speculation.** Organized play, regionals at **500 to 1,000+** entries, starter decks people actually open — that's proof of **living demand**. A sealed box in a closet with no game behind it is akiya with foil.
-
-**Rule 3 — Geography is your micro-population.** I said this in the advanced tips video. PH, US, EU — different buyer pools. Invest for **where you'll sell**, not where Twitter hypes. A shrinking local scene is Japan in miniature.
-
-**Rule 4 — Liquidity is demographic insurance.** If you can't exit in 30 days at a fair discount, you're holding a house in rural Wakayama. Population risk shows up as **hard sells**, not TCGPlayer charts.
-
-**Rule 5 — Don't confuse today's growth with forever.** OP-13 era doubled the player base. Great. Use the window to **build skill and network**, not to YOLO every anniversary because "number go up."
-
-Getting money and keeping money are different skills. Population decline is how keeping money gets hard — quietly, while everyone argues about reprints.
+Getting money and keeping money are different skills. Population risk shows up when keeping gets quiet.
 
 ---
 
 ## Because you stayed until the end
 
-Bonus filter — I call it the **akiya test**:
+Quick filter I call the **akiya test:**
 
-If this product only makes sense because **new people are flooding in this year**, it's trade pile. If it still makes sense when signup growth is flat, it's hold pile.
+If this only makes sense because **new people are flooding in this year**, it's trade pile.
 
-OP-09, OP-13, OP-17, EB sealed — global IP, anniversary gravity, player memory. Regular modern you overpaid on launch week? That's the house you might not find a buyer for if the room gets quieter.
+If it still makes sense when growth flatlines — global IP, anniversary gravity, player memory — it's hold pile.
+
+OP-09, OP-13, OP-17, EB sealed live in hold for me. Random modern I overpaid on launch week? Trade. And I'm honest about which pile I'm in before I buy.
 
 ---
 
@@ -325,11 +280,13 @@ OP-09, OP-13, OP-17, EB sealed — global IP, anniversary gravity, player memory
 
 That's it for today, pirates.
 
-**Hot take recap:** Reprints hurt. Drama is loud. Crypto and scalpers are distractions. **Declining population** is the slow killer — Japan's nine million empty homes are the warning label.
+Reprints can hurt your month. Drama is loud. Scalpers tax you on week one. **Fewer future buyers** is the slow killer — and Japan's empty houses are the picture I keep in my head.
 
-Comment below: **Which threat have you been watching — reprints, scalpers, or the wrong one entirely?** And what market are you in — US, PH, EU, somewhere else?
+Comment below: what are **you** actually worried about — reprints, locals drama, or something slower like demand drying up? Drop your country too. US, PH, wherever you sell.
 
-If this reframed how you think about your holds, subscribe. I do investor frameworks, not launch-week hype.
+If this helped you think longer than next preorder season, subscribe. I make these for people with jobs and binders, not for hype week.
+
+Phase video still coming. Watch Ten Year Plan and Advanced Tips if you haven't — they pair with this one.
 
 I'll catch you in the next one. See you on our next voyage.
 
@@ -357,8 +314,8 @@ Comment: **reprints vs population — which were you watching?** + your country.
 ## Production notes
 
 - **Format:** B + F hybrid — myth bust → macro hot take → survival rules
-- **Runtime:** ~12–14 min
-- **Tone:** Contrarian but honest — acknowledge OPTCG growth data; don't pure doom
+- **Runtime:** ~11–13 min (tighter — one table-clearing pass, not six debate loops)
+- **Tone:** Talk *with* viewer — shared comment-section pain, JJ's mistakes, one devil's advocate only. See [anti-ai-patterns.md](../.cursor/skills/one-piece-tcg-script-writer/anti-ai-patterns.md) — no spoken "Hot take:", no "Here's what I believe", no debate-bot loops.
 - **B-roll:** Japan akiya photos (stock) · empty tournament hall vs packed Peoria clip · reprint headline crossed out · population decline chart
 - **On-screen text:** 5 NOT THE KILLER · #6 POPULATION · akiya test · link advanced tips + ten year plan end cards
 - **Verify before film:** Latest Japan Housing Survey vacancy figure; IPSS population projection citation on screen

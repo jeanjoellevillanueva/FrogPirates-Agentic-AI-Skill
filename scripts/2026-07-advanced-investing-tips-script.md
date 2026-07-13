@@ -64,9 +64,9 @@
 
 ## Voiceover script
 
-What's up, pirates! JJ from Frogpirates here.
+What's up, pirates! Today we're going to talk about six advanced One Piece TCG investing tips — the ones most collectors skip.
 
-Today we're going past the beginner stuff. You already know Luffy holds. You already know OP-16 is a strong set. You probably already know OP-17 is the next anniversary drop in August.
+You already know Luffy holds. You already know OP-16 is a strong set. You probably already know OP-17 is the next anniversary drop in August.
 
 **That doesn't mean you should buy anything right now.**
 
